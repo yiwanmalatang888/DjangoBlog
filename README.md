@@ -131,6 +131,8 @@ python manage.py compress --force
 
 ---
 
+### 邮箱 982439641a@gmail.com
+
 感谢jetbrains
 <div>    
 <a href="https://www.jetbrains.com/?from=DjangoBlog"><img src="/docs/imgs/pycharm_logo.png" width="150" height="150"></a>
