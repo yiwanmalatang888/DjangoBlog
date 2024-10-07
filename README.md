@@ -131,7 +131,7 @@ python manage.py compress --force
 
 ---
 
-### 邮箱 982439641a@gmail.com
+### 邮箱 weidong20192025@gmail.com
 
 感谢jetbrains
 <div>    
