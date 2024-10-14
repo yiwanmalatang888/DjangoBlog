@@ -129,6 +129,11 @@ python manage.py compress --force
 <img src="/docs/imgs/wechat.jpg" width="150" height="150" />
 </div>
 
+### 邮箱：weidong20192025@gmail.com
+<div>    
+ 
+</div>
+
 ---
 
 感谢jetbrains
